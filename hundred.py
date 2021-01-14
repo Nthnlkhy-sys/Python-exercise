@@ -1,0 +1,6 @@
+urname = input("Please Input Your name\n")
+urgae = input("please insert your age\n")
+urgae = int(urgae)
+year = ((2021-urgae)+100)
+year = str(year)
+print(urname + " your age will be 100 in year : " + year)
